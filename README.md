@@ -2,7 +2,7 @@
 
 Esse foi feito em JS, CSS e HTML.
 
-## ⚙️ Como funcionam? 
+## ⚙️ Como funciona? 
 
 Aplicação com layout básico, feito com principio de treinar os conhecimentos. 
 
